@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ✨ Codersrank ✨                                                                                                                                                                                        
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&show_icons=true&username=daniel-aime&badges=2&show-avatar=true&style=--header-bg-color:%231769aa90;--border-radius:4px" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&show_icons=true&username=Rastaitr320&badges=2&show-avatar=true&style=--header-bg-color:%231769aa90;--border-radius:4px" />
